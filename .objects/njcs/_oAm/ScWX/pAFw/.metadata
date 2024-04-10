@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Hover 'Account & Lists'",
+  "Type": "Element",
+  "Id": "pAFwr0ICDkmtVuBNzMxQMw",
+  "Reference": "YmSWi_PDG06xhoAoP4JQLQ/pAFwr0ICDkmtVuBNzMxQMw",
+  "ParentRef": "YmSWi_PDG06xhoAoP4JQLQ/ScWXIFMAVUmHNqdXTJzFuA",
+  "Created": "2024-04-09T11:10:20.6158114Z",
+  "Updated": "2024-04-09T11:10:20.6158114Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

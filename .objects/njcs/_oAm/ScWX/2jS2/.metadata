@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Click 'Click 'Sign Out''",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "2jS2H_Uh-kChBW3D1wCuNQ",
+  "Reference": "YmSWi_PDG06xhoAoP4JQLQ/2jS2H_Uh-kChBW3D1wCuNQ",
+  "ParentRef": "YmSWi_PDG06xhoAoP4JQLQ/ScWXIFMAVUmHNqdXTJzFuA",
+  "Created": "2024-04-09T11:56:27.1226264Z",
+  "Updated": "2024-04-09T11:56:33.8700355Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

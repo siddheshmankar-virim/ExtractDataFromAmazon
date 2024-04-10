@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="j0d2NmQP_USIC_QQ2kKtHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.amazon.in/s?k=BlackBerry+mobile+phone&amp;crid=3DKCCYNK1Q38I&amp;sprefix=blackberry+mobile+phone%2Caps%2C221&amp;ref=nb_sb_noss_1" CvElementArea="843, 170, 17, 16" CvTextArea="739, 169, 103, 13" CvTextArgument="Account &amp; Lists" CvType="ArrowButton" DesignTimeRectangle="741, 169, 113, 15" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl aaname='Account &amp;amp; Lists   ' parentid='nav-link-accountList' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Account &amp;amp; Lists   ' parentid='nav-link-accountList' tag='SPAN' type='' class='nav-line-2 ' check:innerText='Account &amp;amp; Lists' /&gt;" Guid="742e5046-cba6-4410-a447-0f190321e767" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.in : BlackBerry mobile phone' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5d36c80e234a2b0906f2e935a6b9713e.png" xmlns="">0cAZcDKPqLEK4DRKcroaGSg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Hover</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
